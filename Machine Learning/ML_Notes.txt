@@ -1,0 +1,218 @@
+
+1. Steps we need to follow before approaching any ML Project (Complete Project)
+2. Airflow Revison (Scheduler) 
+3. Parallel Training
+4. Docker
+5. Deployment
+
+
+
+
+Machine Learning Development in Cloud
+
+Vertex AI(Google), 
+Azure Machine Learning Studio(Microsoft), 
+Sagemaker(AWS)
+
+
+
+How to start Machine Learning Project?
+
+1. Python
+
+Data Structure
+List Queue Dictionary Set Tuple
+Function
+*args,**kwargs
+OOPS:
+Class:  
+	Attribute or Property (Public, Private and Protected)
+	function
+
+
+Library System (College):
+Real Entity			OOPS (Class)			Database (Table)
+BooK 				BOOK					BOOK
+Student				Student					Student
+Librarian			Librarian				Librarian
+Author				Author					Author
+BookCategory		BookCategory			BookCategory
+BookDistribution	BookDistribution		BookDistribution
+
+
+Understand Relation Between Entity:
+
+User
+Student
+Librarian
+Author
+
+
+IS A ()
+HAS A ()
+
+UserType(PK)  User(FK) 
+one to many
+
+Python (ENum)
+Abstract
+Interface
+
+
+
+
+User has a UserType
+
+
+
+
+
+Decorator:
+Example
+
+
+Logging 
+
+We want to log
+
+Function Name along with their parameter
+Start Time
+End Time
+Total Duration of function execution
+
+
+Create a decorator
+@logDetail
+
+
+Exception
+and
+Logging
+
+-----We know Python---
+
+
+ML Project (Recommendation)
+ML Regression ()Foresting 
+ML Classification () 
+
+Loan should be approved or not 
+Transaction is legitimate or not
+Classifiction about valid user or not 
+Mail verification 
+
+
+ML CLustering
+
+
+---->
+Sensor Fault Detection
+
+f1 racing
+
+
+1. Reading of sensors (100)
+XYZ company build an product which contains sensors
+
+Product Maintainace is require or not
+Warranty or Gurranty
+
+1. Reliability
+2. Trust
+3. GoodWill
+4. Inspect Design and Recommendation for Re engineering to improve product
+
+2 to 3 In building any Product 
+
+Initial Data they will analyze it
+
+Ready to launch product in the market
+
+
+Inital Data (Model)---> Maintainace required or not
+
+
+Complete track of record of sensor along with timestamp how it change after what time
+and which sensor reading range will make product in bad condition
+
+6 Month --> Warranty (4 Hour ) --> 
+
+Anaomly Detection/Classification
+
+Whether you product need maintainance or not before it gets into badcondition
+
+Data Collection--> Continous proccess
+
+Data Engineering Team (Handling Big Data is required) Cluster
+Capture the data and send these data to company server
+
+Streaming--> Kafka
+
+Data Scientist Team
+
+100 Sensors
+D1------->  K
+			A
+			F
+D2------>	K
+			A
+
+
+D1M---->
+
+
+
+
+
+Training Data is in Data Lake 
+
+Prediction data --> new file which will specify detail customer where to send 
+engineers for maintainance of the product.
+
+
+What is Data Lake
+
+Distributed File Storage System
+
+S3 Bucket
+Google Cloud Storage ()
+Storage Account (Container, FIle Share, Queues and Table)
+
+Blob Storage 
+
+Binary Large Object
+
+Hadoop
+
+PySpark: Data Bricks 
+PySpark: Distributed Framework 
+
+Data Transformation and Model trainomg
+
+Python, PySPARK and SQL--> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
